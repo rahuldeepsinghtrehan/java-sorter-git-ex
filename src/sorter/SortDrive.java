@@ -11,7 +11,7 @@ public class SortDrive {
 
         Sorter.bubbleSort(numbers);
 
-        System.out.println("After Bubble Sorting:");
+        System.out.println("After bubble Sorting:");
         SorterUtility.printArray(numbers);
     }
 }
