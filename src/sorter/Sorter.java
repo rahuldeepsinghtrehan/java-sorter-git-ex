@@ -1,5 +1,6 @@
 package sorter;
 //TODO: This message is just a test for commit and push.  
+//small update for just test and show
 public class Sorter {
     public static void bubbleSort(int[] arr) {
         for (int i = 0; i < arr.length-1; i++) {
